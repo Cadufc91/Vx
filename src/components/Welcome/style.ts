@@ -4,6 +4,7 @@ export const WelcomeContainer = styled.section`
     display: flex;
     flex-direction: column;
     margin-top: 170px;
+    margin-bottom: 100px;
 `;
 
 export const WelcomeHeader = styled.div`
