@@ -21,7 +21,7 @@ import Footer from '../../assets/img/footer.svg';
 
 export function Contact () {
     return(
-        <ContactContainer>
+        <ContactContainer id='contact'>
             <ContactHeader>
                 <ContactTitle>Contato</ContactTitle>
                 <ContactSubtitle>¡Encuentre la mejor historia en español para su público!</ContactSubtitle>

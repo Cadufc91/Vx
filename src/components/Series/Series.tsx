@@ -33,7 +33,7 @@ import Series6 from '../../assets/img/series6.png';
 
 export function Series () {
     return(
-        <SeriesContainer>
+        <SeriesContainer id='series'>
             <SeriesHeader>
                 <HeaderTitle>Series</HeaderTitle>
                 <HeaderSubtitle>¡Nuevo consumidor, nuevo contenido!</HeaderSubtitle>

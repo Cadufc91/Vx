@@ -26,7 +26,7 @@ import { MdKeyboardArrowDown } from 'react-icons/md';
 
 export function Welcome () {
     return(
-        <WelcomeContainer>
+        <WelcomeContainer id='welcome'>
             <WelcomeHeader>
                 <WelcomeTitle>Bienvenido a globo</WelcomeTitle>
                 <WelcomSubtitle>Telenovelas y series impactantes</WelcomSubtitle>
