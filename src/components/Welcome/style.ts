@@ -115,9 +115,9 @@ export const CTA2 = styled.button`
     display: flex;
     align-items: center;
     color: #fff;
-    background: #7833E7;
-    border: none;
+    background: linear-gradient(0deg, #7833E7, #7833E7), linear-gradient(117.42deg, #FC1787 -25.41%, #7C2CFF 75.5%), #C4C4C4;
     border-radius: 30px;
+    border: none;
     cursor: pointer;
     height: 52px;
     

@@ -46,8 +46,8 @@ export const MenuItem = styled.li`
 
 export const MenuBtn = styled.button`
     height: 36px;
-    border-radius: 34px;
-    background: #7833E8;
+    background: linear-gradient(0deg, #7833E8, #7833E8), linear-gradient(0deg, #FC1787, #FC1787), linear-gradient(0deg, #AE3898, #AE3898), linear-gradient(110.32deg, #EB4630 28.52%, #E543B8 90.89%), #D1268E;
+    border-radius: 33.749px;
     border: none;
 
     a{
@@ -104,8 +104,8 @@ export const CTA1 = styled.button`
     border: none;
     display: flex;
     align-items: center;
-    background: #7833E7;
-    border-radius: 29px;
+    background: linear-gradient(0deg, #7833E7, #7833E7), linear-gradient(109.75deg, #FC1787 -19.65%, #7C2CFF 58.39%), #C4C4C4;
+    border-radius: 28.4554px;
     color: #fff;
     cursor: pointer;
     
