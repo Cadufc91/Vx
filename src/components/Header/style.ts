@@ -42,6 +42,10 @@ export const MenuItem = styled.li`
         text-decoration: none;
         color: #fff;
     }
+
+    :hover{
+        opacity: 0.5;
+    }
 `;
 
 export const MenuBtn = styled.button`
@@ -49,6 +53,7 @@ export const MenuBtn = styled.button`
     background: linear-gradient(0deg, #7833E8, #7833E8), linear-gradient(0deg, #FC1787, #FC1787), linear-gradient(0deg, #AE3898, #AE3898), linear-gradient(110.32deg, #EB4630 28.52%, #E543B8 90.89%), #D1268E;
     border-radius: 33.749px;
     border: none;
+    transition: all 0.3s ease-in-out;
 
     a{
         padding: 3px 18px;
@@ -56,6 +61,10 @@ export const MenuBtn = styled.button`
         color: #fff;
         font-size: 17px;
         font-weight: 700;
+    }
+
+    :hover{
+        transform: scale(1.1);
     }
 `;
 
@@ -108,6 +117,7 @@ export const CTA1 = styled.button`
     border-radius: 28.4554px;
     color: #fff;
     cursor: pointer;
+    transition: all 0.3s ease-in-out;
     
     a{
         margin-left: 5%;
@@ -115,6 +125,10 @@ export const CTA1 = styled.button`
         font-size: 18px;
         text-decoration: none;
         color: #fff;
+    }
+
+    :hover{
+        transform: translateY(5px);
     }
 `;
 

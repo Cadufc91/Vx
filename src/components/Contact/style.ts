@@ -63,6 +63,7 @@ export const NameLabel = styled.label`
     color: #fff;
     font-size: 13px;
     font-weight: 700;
+    transition: all 0.3s ease-in-out;
 
     :hover{
         color: #AE3898;
@@ -96,6 +97,7 @@ export const EmailLabel = styled.label`
     color: #fff;
     font-size: 13px;
     font-weight: 700;
+    transition: all 0.3s ease-in-out;
 
     :hover{
         color: #AE3898;
@@ -129,6 +131,7 @@ export const CompanyLabel = styled.label`
     color: #fff;
     font-size: 13px;
     font-weight: 700;
+    transition: all 0.3s ease-in-out;
 
     :hover{
         color: #AE3898;
@@ -162,6 +165,7 @@ export const TextLabel = styled.label`
     color: #fff;
     font-size: 13px;
     font-weight: 700;
+    transition: all 0.3s ease-in-out;
 
     :hover{
         color: #AE3898;
@@ -195,6 +199,11 @@ export const SubmitBtn = styled.button`
     border: none;
     color: #fff;
     cursor: pointer;
+    transition: all 0.3s ease-in-out;
+
+    :hover{
+        transform: translateY(-5px) scale(1.1);
+    }
 `;
 
 export const FooterImg = styled.img`

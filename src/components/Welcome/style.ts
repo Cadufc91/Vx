@@ -120,6 +120,7 @@ export const CTA2 = styled.button`
     border: none;
     cursor: pointer;
     height: 52px;
+    transition: all 0.3s ease-in-out;
     
     a{
         padding: 6px 20px 6px 25px;
@@ -127,5 +128,9 @@ export const CTA2 = styled.button`
         font-weight: 100;
         text-decoration: none;
         color: #fff;
+    }
+
+    :hover{
+        transform: translateY(10px);
     }
 `;
