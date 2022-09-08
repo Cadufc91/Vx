@@ -142,7 +142,7 @@ As seguintes ferramentas foram usadas na construção do projeto:
  <sub><b>Cadu Fernandes</b></sub></a> <a href="https://cadufc-portfolio.vercel.app/">🚀</a>
  <br />
 
- [![Linkedin Badge](https://img.shields.io/badge/-Cadu-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/tgmarinho/)](https://www.linkedin.com/in/carloseduardo-fernandes/) 
+ [![Linkedin Badge](https://img.shields.io/badge/-Cadu-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/carloseduardo-fernandes/)](https://www.linkedin.com/in/carloseduardo-fernandes/) 
 [![Gmail Badge](https://img.shields.io/badge/-fernandes.cadu@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:fernandes.cadu@gmail.com)](mailto:fernandes.cadu@gmail.com)
 
 ---
@@ -151,7 +151,7 @@ As seguintes ferramentas foram usadas na construção do projeto:
 
 Este projeto esta sobe a licença [MIT](./LICENSE).
 
-Feito com ❤️ por Cadu Fernandes 👋🏽 [Entre em contato!](https://www.linkedin.com/in/tgmarinho/)
+Feito com ❤️ por Cadu Fernandes 👋🏽 [Entre em contato!](https://www.linkedin.com/in/carloseduardo-fernandes/)
 
 ---
 
