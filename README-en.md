@@ -9,7 +9,7 @@
     
    <img alt="License" src="https://img.shields.io/badge/license-MIT-brightgreen">
    <a href="https://github.com/cadufc91/Vx/stargazers">
-    <img alt="Stargazers" src="https://img.shields.io/github/stars/tgmarinho/Vx?style=social">
+    <img alt="Stargazers" src="https://img.shields.io/github/stars/cadufc91/Vx?style=social">
   </a>
   
  
@@ -29,7 +29,7 @@
  <a href="#-how-it-works">How it works</a> • 
  <a href="#-tech-stack">Tech Stack</a> • 
  <a href="#-author">Author</a> • 
- <a href="#-user-content-license">License</a>
+ <a href="#-license">License</a>
 </p>
 
 
